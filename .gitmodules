@@ -1,7 +1,9 @@
 [submodule "my-svelte-app"]
 	path = my-svelte-app
 	url = https://github.com/yayasoumah/my-svelte-app
-	base = main
+	base = my-svelte-app
+
+
 
 
 
