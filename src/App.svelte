@@ -9,6 +9,8 @@
 	const linkedinLink = 'https://www.linkedin.com/in/yaya-soumah-46996b11a/';
 	const githubLink = 'https://github.com/yayasoumah';
 
+	const spatialPortLink = 'https://spatial-port.com/';
+
 	const articleOne = 'https://avolab.substack.com/p/how-fashion-brands-are-making-245'; 
 </script>
 
@@ -21,8 +23,8 @@
 	<p>
 		<b>Bio: </b>I'm a serial entrepreneur, 
 		I'm specialized in the <strong>fashion</strong> industry, 
-		and I'm building and investing in <strong>AI</strong>, 
-		<strong>Web3</strong> and <strong>consumer apps</strong>.
+		and I'm building and investing in the <b>Virtual Reality</b>, <b>AI</b>, 
+		<b>Web3</b> and <b>consumer apps</b>.
 	</p>
 	
 	<p>
@@ -65,6 +67,11 @@
 		We dressed some of the greatest artists in the world. Now I'm merging the fashion with 
 		new technologies, like <b>Blockchain</b> and <b>virtual</b> and <b>augmented reality</b>. 
 	</p>
+	<p>
+		<b>VR: </b>
+		I'm the Head of Partnerships and Strategic Growth at  <a href= { spatialPortLink }>Spatial Port</a>, 
+		an american startup that is building mobile-based <b>virtual reality</b> applications.
+		
 	<p>
 		<b>AI: </b>
 		I'm using <b>large language models</b> and <b>generative models</b> 
