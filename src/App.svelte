@@ -1,8 +1,8 @@
 <script>
-	const twitter = 'build/images/twitter.png';
-	const instagram = 'build/images/instagram.png';
-	const linkedin = 'build/images/linkedin-logo.png';
-	const github = 'build/images/github-sign.png'; 
+	const twitter = 'images/twitter.png';
+	const instagram = 'images/instagram.png';
+	const linkedin = 'images/linkedin-logo.png';
+	const github = 'images/github-sign.png'; 
 
 	const twitterLink = 'https://twitter.com/yayasoumah';
 	const instagramLink = 'https://www.instagram.com/yayasoumah/';
