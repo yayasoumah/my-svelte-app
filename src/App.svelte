@@ -70,12 +70,12 @@
 	<p>
 		<b>VR: </b>
 		I'm the Head of Partnerships and Strategic Growth at  <a href= { spatialPortLink }>Spatial Port</a>, 
-		an american startup that is building mobile-based <b>virtual reality</b> applications.
+		an american startup that is building mobile-based <b>virtual reality</b> apps.
 		
 	<p>
 		<b>AI: </b>
 		I'm using <b>large language models</b> and <b>generative models</b> 
-		to build applications that can improve the way users intereact with user interfaces.
+		to build applications that can improve the way people intereact with user interfaces.
 	</p>
 	<p>
 		<b>Web3: </b>focused on developing Web3 based technologies that are easier to use, 
